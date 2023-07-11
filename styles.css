@@ -52,3 +52,13 @@ body {
     width: 631px;
     height: 800px;
 }
+.Featured{
+    padding: 100px 650px 50px 650px;
+    text-align: center;
+    
+}
+.section-title{
+    color: #272727;
+    font-size: 30px;
+    font-style: bold;
+}
