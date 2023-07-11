@@ -99,7 +99,7 @@ body {
 .section-title {
     color: #272727;
     font-size: 30px;
-    font-style: bold;
+    text-decoration: bold;
 }
 
 .second-banner {
@@ -112,4 +112,10 @@ body {
 
 .discount {
     color: #E55473;
+}
+.insta-decoration{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 200px;
 }
