@@ -52,13 +52,64 @@ body {
     width: 631px;
     height: 800px;
 }
-.Featured{
+
+.Featured {
     padding: 100px 650px 50px 650px;
     text-align: center;
+
+}
+
+.tree {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+
+}
+
+.iconsix {
+    border-radius: 300px 300px 0px 0px;
+    background-color: #A7216226;
+    padding-top: 110px;
+    padding-left: 76px;
+    padding-right: 78px;
+    padding-bottom: 0px;
     
 }
-.section-title{
+
+.icon-five {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 117px 47px 51px 47px;
+   
+
+}
+
+.icon-seven {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding-top: 65px;
+    padding-left: 75px;
+    padding-right: 75px;
+}
+.tree-title{
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+.section-title {
     color: #272727;
     font-size: 30px;
     font-style: bold;
+}
+
+.second-banner {
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 200px;
+}
+
+.discount {
+    color: #E55473;
 }
