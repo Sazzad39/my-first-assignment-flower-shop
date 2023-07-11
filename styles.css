@@ -73,14 +73,14 @@ body {
     padding-left: 76px;
     padding-right: 78px;
     padding-bottom: 0px;
-    
+
 }
 
 .icon-five {
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
     padding: 117px 47px 51px 47px;
-   
+
 
 }
 
@@ -91,7 +91,8 @@ body {
     padding-left: 75px;
     padding-right: 75px;
 }
-.tree-title{
+
+.tree-title {
     text-align: center;
     text-decoration-line: underline;
 }
@@ -100,6 +101,28 @@ body {
     color: #272727;
     font-size: 30px;
     text-decoration: bold;
+}
+
+.support {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 150px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    max-width: 1430px;
+    margin-left: auto;
+    margin-right: auto;
+    gap: 350px;
+    border-radius: 10px;
+    padding: 128px 240px 128px 350px;
+}
+.delivery-info{
+    color: rgba(39, 39, 39, 0.80);
+    
+    font-size: 17px
 }
 
 .second-banner {
@@ -113,38 +136,44 @@ body {
 .discount {
     color: #E55473;
 }
-.insta-decoration{
+
+.insta-decoration {
     display: flex;
     justify-content: center;
     gap: 15px;
     margin-bottom: 200px;
 }
-.deal-section{
+
+.deal-section {
     background-image: url("./Images/section5/Rectangle\ 9.png");
-   background-repeat: no-repeat;
-   background-position: center;
-   background-size: contain;
-   /* width: 1400px; */
-   /* height: 450px; */
-   padding: 128px 240px 128px 350px;
-   /* max-width: 1440px; */
-   /* margin: 0 auto; */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    /* width: 1430px; */
+    /* height: 450px; */
+    padding: 128px 240px 128px 350px;
+    /* max-width: 1440px; */
+    /* margin: 0 auto; */
 }
-.deal{
+
+.deal {
     text-align: center;
     padding-top: 125px;
     padding-right: 70px;
 }
-.deal-title{
+
+.deal-title {
     font-size: 40px;
 }
-.deal-description{
+
+.deal-description {
     color: rgba(39, 39, 39, 0.60);
-text-align: center;
-font-size: 18px;
-margin-bottom: 48px;
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 48px;
 }
-.Email{
+
+.Email {
     padding: 10px 20px;
     position: static;
     color: rgba(39, 39, 39, 0.60);
@@ -153,22 +182,27 @@ margin-bottom: 48px;
     border: 0px;
     border-radius: 8px;
 }
-.about{
+
+.about {
     background-color: black;
     margin-top: 200px;
     text-align: center;
     padding: 128px 830px 128px 830px;
 }
-.about-title{
+
+.about-title {
     color: #FFFFFF;
 }
-.color-me{
+
+.color-me {
     color: #E55473;
 }
-.about-description{
-color: #FFFFFFE5;
+
+.about-description {
+    color: #FFFFFFE5;
 
 }
-.about-copyright{
-color: #FFFFFF66;
+
+.about-copyright {
+    color: #FFFFFF66;
 }
