@@ -153,3 +153,22 @@ margin-bottom: 48px;
     border: 0px;
     border-radius: 8px;
 }
+.about{
+    background-color: black;
+    margin-top: 200px;
+    text-align: center;
+    padding: 128px 830px 128px 830px;
+}
+.about-title{
+    color: #FFFFFF;
+}
+.color-me{
+    color: #E55473;
+}
+.about-description{
+color: #FFFFFFE5;
+
+}
+.about-copyright{
+color: #FFFFFF66;
+}
